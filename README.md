@@ -33,7 +33,7 @@ In real-world data science workflows, analysts often need to inspect large volum
 ```text
 ├── create_sales_dataset.py   # Python script to generate the 1M-row sales dataset
 ├── sales_data.csv            # (Ignored in Git) Generated locally when script runs
-├── eda_analysis.ipynb        # Jupyter notebook executing ydata-profiling & Sweetviz
+├── eda_reports.py            #Python script executing ydata-profiling & Sweetviz
 ├── .gitignore                # Excludes data files, virtual environments, and caches
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project documentation
