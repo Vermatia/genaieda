@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "genai-pyspark-pipeline",
+			"path": "../../../Documents/genai-pyspark-pipeline"
+		}
+	],
+	"settings": {}
+}
